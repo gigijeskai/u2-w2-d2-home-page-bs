@@ -1,8 +1,0 @@
-.col-5 {
-    flex: 0 0 auto;
-    width: 41.66666667%;
-    display: flex;
-    flex-direction: column;
-    align-items: flex-start;
-    justify-content: center;
-}
